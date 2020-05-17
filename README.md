@@ -22,7 +22,7 @@ We generate an ArrayList containing 100,003 lines:
 }
 ```
 
-We then test various methods proposed in the Stack Exchange Question to remove every second element.
+We then test various methods proposed in [this Stackoverflow Question](https://stackoverflow.com/questions/61845242/removing-every-other-element-in-an-array-list/61845315) to remove every second element.
 
 (Due to ambiguity, most answers are designed to remove the even elements and keep the odds, but one removes odds and keep evens, and another (originally marked best answer) discards all the duplicate lines regardless of whether they are odd or even!).
 
