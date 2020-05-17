@@ -2,7 +2,7 @@
 
 This repo performs a timing benchmark of various methods to remove even second element from an ArrayList.
 
-(Spoiler: removing elements from an ArrayList is slow! If you need to frequently add/remove elements mid-way in a list, consider using a [LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) instead)
+(Spoiler: removing elements from an ArrayList is slow! If you need to frequently add/remove elements in the middle of a list, consider using a [LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) instead)
 
 Stackoverflow Question: [Removing every other element in an array list](https://stackoverflow.com/questions/61845242/removing-every-other-element-in-an-array-list/61845315)
 
