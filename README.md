@@ -10,6 +10,7 @@ Stackoverflow Question: [Removing every other element in an array list](https://
 # Method
 
 We generate an ArrayList containing 100,003 lines:
+```
 {
   "line 1"
   "line 2
@@ -19,6 +20,7 @@ We generate an ArrayList containing 100,003 lines:
   "duplicate line"
   "duplicate line"
 }
+```
 
 We then test various methods proposed in the Stack Exchange Question to remove every second element.
 
