@@ -12,12 +12,12 @@ Stackoverflow Question: [Removing every other element in an array list](https://
 We generate an ArrayList containing 100,003 lines:
 ```
 {
-  "line 1"
-  "line 2
+  "line 0",
+  "line 1,
   ...
-  "line 100000"
-  "duplicate line"
-  "duplicate line"
+  "line 99999",
+  "duplicate line",
+  "duplicate line",
   "duplicate line"
 }
 ```
